@@ -53,7 +53,7 @@
             print("\nSaldo: R$ {:.2f}\n".format(saldo))
 
         elif opcao == "q":
-          break
+            break
     
         else:
             print("Operação inválida, por favor selecione novamente a operação desejada.")
